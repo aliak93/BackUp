@@ -1,0 +1,24 @@
+"analysises": [
+        {
+            "id": "60afd2bc5621321824e335dc", // analysis
+            "objectives": [
+                {
+                    "id": "60aafa0807c9614834534e43", // objective
+                    "unit": "60abb4d0369d853f7c090bb9"
+                },
+                {
+                    "id": "60aafa0807c9614834534e43",
+                    "unit": "60aa42edd1004e3ab0b98fbf"
+                }
+            ]
+        },
+        {
+            "id": "60b0ccec981c4a1e60f6792c",
+            "objectives": [
+                {
+                    "id": "60aafa0807c9614834534e43",
+                    "unit": "60abb4d0369d853f7c090bb9"
+                }
+            ]
+        }
+    ],
